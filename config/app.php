@@ -178,6 +178,8 @@ return [
         App\Providers\RouteServiceProvider::class,
 
         WebEd\Base\Core\Providers\ModuleProvider::class,
+        WebEd\Plugins\CustomFields\Providers\ModuleProvider::class,
+
 
     ],
 

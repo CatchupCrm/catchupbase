@@ -1,0 +1,12 @@
+{
+    "alias": "sedna",
+    "name": "Sedna theme for WebEd CMS",
+    "author": "Tedozi Manson",
+    "description": "Sedna theme for WebEd CMS",
+    "namespace": "WebEd\\Themes\\Sedna",
+    "version": "1.0.1",
+    "autoload": "psr-4",
+    "require": {
+        "webed-custom-fields": "^2.0.6"
+    }
+}
